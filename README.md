@@ -8,7 +8,11 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👋 I’m Manish Kumar
 - 🌱 I’m currently learning Android Development
+- 📫 My Portfolio: [http://manish-resume.epizy.com/](http://manish-resume.epizy.com/);
+- 📫 How to reach me: manishsahu354@gmail.com;
+- 📫 Linkedin Url: https://www.linkedin.com/in/manish-profile/;
 - 💞️ I’m looking to collaborate on Android Projects
+<!-- - 📫 My Resume: [View PDF](); -->
 
 # GitHub Stats
 
